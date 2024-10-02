@@ -1,0 +1,27 @@
+{
+  "title": "Consdev",
+  "name": "consdev",
+  "version": "1.3.0",
+  "description": "Consdev to customize console terminal background text colors with identifiers.",
+  "main": "src/consdev.js",
+  "types": "src/consdev.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javercel/consdev.git"
+  },
+  "keywords": [
+    "consdev",
+    "console",
+    "terminal",
+    "output"
+  ],
+  "author": "Shahzada Modassir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javercel/consdev/issues"
+  },
+  "homepage": "https://github.com/javercel/consdev#readme"
+}
